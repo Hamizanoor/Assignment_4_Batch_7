@@ -28,7 +28,7 @@ void main() {
   var num = 5;
 
   for (var i = 1; i < 11; i++) {
-    print("$num*$i = ${num * i} ");
+    print("$num x $i = ${num * i} ");
   }
 
 // Q.04:  Implement a code that finds thelargest element in a list using a for loop.
